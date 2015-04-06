@@ -8,6 +8,72 @@
             "SymfonyStandard": "app/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoUserBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoNoteBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoWidgetBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoTicketBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoPersonBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoEmployeeBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoAccountBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoProductSaleBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoCommissionBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoProductProviderBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoAccountTransactionPathBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoTaxBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoProductProviderTransactionPathBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoECommBundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/BlackBoxRepo/PandoFileBundle"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": "2.6.*",
@@ -20,7 +86,23 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~3.0,>=3.0.12",
         "sensio/framework-extra-bundle": "~3.0,>=3.0.2",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+        "blackboxcode/pando-user-bundle": "@dev",
+        "blackboxcode/pando-note-bundle": "@dev",
+        "blackboxcode/pando-widget-bundle": "@dev",
+        "blackboxcode/pando-ticket-bundle": "@dev",
+        "blackboxcode/pando-person-bundle": "@dev",
+        "blackboxcode/pando-employee-bundle": "@dev",
+        "blackboxcode/pando-account-bundle": "@dev",
+        "blackboxcode/pando-account-ticket-bundle": "@dev",
+        "blackboxcode/pando-product-sale-bundle": "@dev",
+        "blackboxcode/pando-commission-bundle": "@dev",
+        "blackboxcode/pando-product-provider-bundle": "@dev",
+        "blackboxcode/pando-account-transaction-path-bundle": "@dev",
+        "blackboxcode/pando-tax-bundle": "@dev",
+        "blackboxcode/pando-product-provider-transaction-path-bundle": "@dev",
+        "blackboxcode/pando-ecomm-bundle": "@dev",
+        "blackboxcode/pando-file-bundle": "@dev"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
