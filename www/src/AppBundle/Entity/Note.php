@@ -10,4 +10,5 @@ class Note
 {
     use \BlackBoxCode\Pando\Bundle\NoteBundle\Model\NoteTrait;
     use \BlackBoxCode\Pando\Bundle\EmployeeBundle\Model\NoteTrait;
+    use \BlackBoxCode\Pando\Bundle\TicketBundle\Model\NoteTrait;
 }
