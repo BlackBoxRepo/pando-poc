@@ -9,4 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class Note
 {
     use \BlackBoxCode\Pando\Bundle\NoteBundle\Model\NoteTrait;
+    use \BlackBoxCode\Pando\Bundle\EmployeeBundle\Model\NoteTrait;
 }
