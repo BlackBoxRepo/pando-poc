@@ -9,4 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class Ticket
 {
     use \BlackBoxCode\Pando\Bundle\TicketBundle\Model\TicketTrait;
+    use \BlackBoxCode\Pando\Bundle\AccountTicketBundle\Model\TicketTrait;
 }
