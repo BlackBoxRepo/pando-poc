@@ -9,5 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class Account
 {
     use \BlackBoxCode\Pando\Bundle\AccountBundle\Model\AccountTrait;
-    //use \BlackBoxCode\Pando\Bundle\AccountTicketBundle\Model\AccountTrait;
+    use \BlackBoxCode\Pando\Bundle\AccountTicketBundle\Model\AccountTrait;
 }

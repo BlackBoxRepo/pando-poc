@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoAccountBundle.git",
-                "reference": "091b8ee287f002390b267ea6275e08b2d4a11882"
+                "reference": "a9f977fd8a05fda63252dd7df472476c3e2c448d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountBundle/zipball/091b8ee287f002390b267ea6275e08b2d4a11882",
-                "reference": "091b8ee287f002390b267ea6275e08b2d4a11882",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountBundle/zipball/a9f977fd8a05fda63252dd7df472476c3e2c448d",
+                "reference": "a9f977fd8a05fda63252dd7df472476c3e2c448d",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -48,7 +48,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoAccountBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoAccountBundle/issues"
             },
-            "time": "2015-04-05 03:47:47"
+            "time": "2015-04-16 21:49:32"
         },
         {
             "name": "blackboxcode/pando-account-ticket-bundle",
@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle.git",
-                "reference": "ad574c7e065240d20040faf4f897b9e3d9af9c75"
+                "reference": "6aaaeb81d2d6b8316bc59da703fb587a453e43cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/ad574c7e065240d20040faf4f897b9e3d9af9c75",
-                "reference": "ad574c7e065240d20040faf4f897b9e3d9af9c75",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/6aaaeb81d2d6b8316bc59da703fb587a453e43cd",
+                "reference": "6aaaeb81d2d6b8316bc59da703fb587a453e43cd",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -92,7 +92,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle/issues"
             },
-            "time": "2015-04-05 03:47:36"
+            "time": "2015-04-16 21:49:52"
         },
         {
             "name": "blackboxcode/pando-account-transaction-path-bundle",
@@ -144,12 +144,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoBaseBundle.git",
-                "reference": "53d348d0c077b07adfb91f88cb8989cc6fb5d0a8"
+                "reference": "a84d0aa916f3a511f80f77cba71650d4283bbfb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/53d348d0c077b07adfb91f88cb8989cc6fb5d0a8",
-                "reference": "53d348d0c077b07adfb91f88cb8989cc6fb5d0a8",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/a84d0aa916f3a511f80f77cba71650d4283bbfb5",
+                "reference": "a84d0aa916f3a511f80f77cba71650d4283bbfb5",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -180,7 +180,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoBaseBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoBaseBundle/issues"
             },
-            "time": "2015-04-16 16:30:38"
+            "time": "2015-04-16 20:02:45"
         },
         {
             "name": "blackboxcode/pando-commission-bundle",
@@ -232,12 +232,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoContactInfoBundle.git",
-                "reference": "cabbafddb45a26bcaa59ee1a3763eb9a940c3e17"
+                "reference": "3f5144b28b57718504c9489527fd1bb41a957ce1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContactInfoBundle/zipball/cabbafddb45a26bcaa59ee1a3763eb9a940c3e17",
-                "reference": "cabbafddb45a26bcaa59ee1a3763eb9a940c3e17",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContactInfoBundle/zipball/3f5144b28b57718504c9489527fd1bb41a957ce1",
+                "reference": "3f5144b28b57718504c9489527fd1bb41a957ce1",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -268,7 +268,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoContactInfoBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoContactInfoBundle/issues"
             },
-            "time": "2015-04-16 16:29:42"
+            "time": "2015-04-16 20:46:01"
         },
         {
             "name": "blackboxcode/pando-ecomm-bundle",
@@ -320,12 +320,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoEmployeeBundle.git",
-                "reference": "d857157961fcbb63a7f4f373e5bcfad4f07c8a1c"
+                "reference": "35d1da5e8eeafc56de457c82d5d1352ba536cea1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoEmployeeBundle/zipball/d857157961fcbb63a7f4f373e5bcfad4f07c8a1c",
-                "reference": "d857157961fcbb63a7f4f373e5bcfad4f07c8a1c",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoEmployeeBundle/zipball/35d1da5e8eeafc56de457c82d5d1352ba536cea1",
+                "reference": "35d1da5e8eeafc56de457c82d5d1352ba536cea1",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -356,7 +356,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoEmployeeBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoEmployeeBundle/issues"
             },
-            "time": "2015-04-05 03:44:48"
+            "time": "2015-04-16 21:51:01"
         },
         {
             "name": "blackboxcode/pando-file-bundle",
@@ -408,12 +408,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoNoteBundle.git",
-                "reference": "6ed821ce92c642a8a5484d8da7ff09c1ec056736"
+                "reference": "0985148e61796a2c9d950dae1a20e5ebc1442edd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoNoteBundle/zipball/6ed821ce92c642a8a5484d8da7ff09c1ec056736",
-                "reference": "6ed821ce92c642a8a5484d8da7ff09c1ec056736",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoNoteBundle/zipball/0985148e61796a2c9d950dae1a20e5ebc1442edd",
+                "reference": "0985148e61796a2c9d950dae1a20e5ebc1442edd",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -444,7 +444,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoNoteBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoNoteBundle/issues"
             },
-            "time": "2015-04-05 03:42:06"
+            "time": "2015-04-16 21:51:24"
         },
         {
             "name": "blackboxcode/pando-person-bundle",
@@ -452,12 +452,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoPersonBundle.git",
-                "reference": "c47bfb059eecc4c8dd94c66590022e4340dda334"
+                "reference": "a61aba41e1bee48910302d9b4e5b06dfb7bfd3a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoPersonBundle/zipball/c47bfb059eecc4c8dd94c66590022e4340dda334",
-                "reference": "c47bfb059eecc4c8dd94c66590022e4340dda334",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoPersonBundle/zipball/a61aba41e1bee48910302d9b4e5b06dfb7bfd3a3",
+                "reference": "a61aba41e1bee48910302d9b4e5b06dfb7bfd3a3",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -488,7 +488,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoPersonBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoPersonBundle/issues"
             },
-            "time": "2015-04-16 16:14:55"
+            "time": "2015-04-16 20:03:44"
         },
         {
             "name": "blackboxcode/pando-product-provider-bundle",
@@ -672,12 +672,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoTicketBundle.git",
-                "reference": "5c8effddf5768b2c2b5a2ddd68e493cf417ae541"
+                "reference": "e8798e1fd8391c2214426826888a0f424be75a9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTicketBundle/zipball/5c8effddf5768b2c2b5a2ddd68e493cf417ae541",
-                "reference": "5c8effddf5768b2c2b5a2ddd68e493cf417ae541",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTicketBundle/zipball/e8798e1fd8391c2214426826888a0f424be75a9b",
+                "reference": "e8798e1fd8391c2214426826888a0f424be75a9b",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -708,7 +708,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoTicketBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoTicketBundle/issues"
             },
-            "time": "2015-04-05 03:44:22"
+            "time": "2015-04-16 21:51:57"
         },
         {
             "name": "blackboxcode/pando-user-bundle",
@@ -716,12 +716,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoUserBundle.git",
-                "reference": "85f19ef0d2665e1b33ee7b92ea850c0c24fdf588"
+                "reference": "f771c34a4aba2a00678923061e6aa60553a5abb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoUserBundle/zipball/85f19ef0d2665e1b33ee7b92ea850c0c24fdf588",
-                "reference": "85f19ef0d2665e1b33ee7b92ea850c0c24fdf588",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoUserBundle/zipball/f771c34a4aba2a00678923061e6aa60553a5abb9",
+                "reference": "f771c34a4aba2a00678923061e6aa60553a5abb9",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -752,7 +752,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoUserBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoUserBundle/issues"
             },
-            "time": "2015-04-16 00:49:02"
+            "time": "2015-04-16 20:03:20"
         },
         {
             "name": "doctrine/annotations",
