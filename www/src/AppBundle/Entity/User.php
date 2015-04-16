@@ -9,4 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class User
 {
     use \BlackBoxCode\Pando\Bundle\UserBundle\Model\UserTrait;
+    use \BlackBoxCode\Pando\Bundle\PersonBundle\Model\UserTrait;
 }

@@ -22,8 +22,8 @@
             "url": "https://github.com/BlackBoxRepo/PandoNoteBundle"
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/BlackBoxRepo/PandoWidgetBundle"
+          "type": "vcs",
+          "url": "https://github.com/BlackBoxRepo/PandoContactInfoBundle"
         },
         {
             "type": "vcs",
@@ -94,7 +94,7 @@
         "blackboxcode/pando-base-bundle": "@dev",
         "blackboxcode/pando-user-bundle": "@dev",
         "blackboxcode/pando-note-bundle": "@dev",
-        "blackboxcode/pando-widget-bundle": "@dev",
+        "blackboxcode/pando-contact-info-bundle": "@dev",
         "blackboxcode/pando-ticket-bundle": "@dev",
         "blackboxcode/pando-person-bundle": "@dev",
         "blackboxcode/pando-employee-bundle": "@dev",
