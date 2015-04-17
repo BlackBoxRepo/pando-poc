@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle.git",
-                "reference": "6aaaeb81d2d6b8316bc59da703fb587a453e43cd"
+                "reference": "49cf7e7a58d4d9b3ed090cd6836427d57757b5c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/6aaaeb81d2d6b8316bc59da703fb587a453e43cd",
-                "reference": "6aaaeb81d2d6b8316bc59da703fb587a453e43cd",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/49cf7e7a58d4d9b3ed090cd6836427d57757b5c0",
+                "reference": "49cf7e7a58d4d9b3ed090cd6836427d57757b5c0",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -72,7 +72,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\AccountTicket\\": ""
+                    "BlackBoxCode\\Pando\\Bundle\\AccountTicketBundle\\": ""
                 }
             },
             "license": [
@@ -92,7 +92,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle/issues"
             },
-            "time": "2015-04-16 21:49:52"
+            "time": "2015-04-16 21:58:49"
         },
         {
             "name": "blackboxcode/pando-account-transaction-path-bundle",
@@ -584,12 +584,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoProductSaleBundle.git",
-                "reference": "ba805a90ab7dafcd6e8b21e2efa888d69619cfd7"
+                "reference": "2c81b3658f16613085c085fbe2b0d2be68436c87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/ba805a90ab7dafcd6e8b21e2efa888d69619cfd7",
-                "reference": "ba805a90ab7dafcd6e8b21e2efa888d69619cfd7",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/2c81b3658f16613085c085fbe2b0d2be68436c87",
+                "reference": "2c81b3658f16613085c085fbe2b0d2be68436c87",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -600,7 +600,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ProductSale\\": ""
+                    "BlackBoxCode\\Pando\\Bundle\\ProductSaleBundle\\": ""
                 }
             },
             "license": [
@@ -620,7 +620,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoProductSaleBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoProductSaleBundle/issues"
             },
-            "time": "2015-04-05 03:45:41"
+            "time": "2015-04-17 15:15:24"
         },
         {
             "name": "blackboxcode/pando-tax-bundle",

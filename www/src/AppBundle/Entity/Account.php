@@ -10,4 +10,5 @@ class Account
 {
     use \BlackBoxCode\Pando\Bundle\AccountBundle\Model\AccountTrait;
     use \BlackBoxCode\Pando\Bundle\AccountTicketBundle\Model\AccountTrait;
+    use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\AccountTrait;
 }

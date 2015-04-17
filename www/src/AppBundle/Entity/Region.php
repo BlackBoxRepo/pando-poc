@@ -9,4 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class Region
 {
     use \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\RegionTrait;
+    use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\RegionTrait;
 }
