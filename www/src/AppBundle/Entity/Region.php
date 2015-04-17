@@ -10,4 +10,5 @@ class Region
 {
     use \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\RegionTrait;
     use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\RegionTrait;
+    use \BlackBoxCode\Pando\Bundle\TaxBundle\Model\RegionTrait;
 }
