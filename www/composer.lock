@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "94925eb629cc5d2f9220a74de366629d",
+    "hash": "1edeb41969a11a4c1fe424d426c645f3",
     "packages": [
         {
             "name": "blackboxcode/pando-account-bundle",
@@ -137,50 +137,6 @@
                 "issues": "https://github.com/BlackBoxRepo/PandoBaseBundle/issues"
             },
             "time": "2015-04-16 20:02:45"
-        },
-        {
-            "name": "blackboxcode/pando-commission-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/BlackBoxRepo/PandoCommissionBundle.git",
-                "reference": "7a01c29c131f184eea1b86370e54a5a354247d4d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoCommissionBundle/zipball/7a01c29c131f184eea1b86370e54a5a354247d4d",
-                "reference": "7a01c29c131f184eea1b86370e54a5a354247d4d",
-                "shasum": ""
-            },
-            "type": "symfony-bundle",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "develop"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\CommissionBundle\\": ""
-                }
-            },
-            "license": [
-                "LGPL-3.0"
-            ],
-            "authors": [
-                {
-                    "name": "Black Box Code",
-                    "email": "contact@blackboxcode.com"
-                }
-            ],
-            "description": "Pando CommissionBundle",
-            "keywords": [
-                "pando commission bundle"
-            ],
-            "support": {
-                "source": "https://github.com/BlackBoxRepo/PandoCommissionBundle/tree/master",
-                "issues": "https://github.com/BlackBoxRepo/PandoCommissionBundle/issues"
-            },
-            "time": "2015-04-05 03:46:02"
         },
         {
             "name": "blackboxcode/pando-contact-info-bundle",
@@ -320,12 +276,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoFileBundle.git",
-                "reference": "bdc11c64d7caaf0797fd0690d73121a46cc40f69"
+                "reference": "1ca3f862bd848b0a9e46aacd189ceef39054028b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoFileBundle/zipball/bdc11c64d7caaf0797fd0690d73121a46cc40f69",
-                "reference": "bdc11c64d7caaf0797fd0690d73121a46cc40f69",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoFileBundle/zipball/1ca3f862bd848b0a9e46aacd189ceef39054028b",
+                "reference": "1ca3f862bd848b0a9e46aacd189ceef39054028b",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -356,7 +312,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoFileBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoFileBundle/issues"
             },
-            "time": "2015-04-05 03:42:43"
+            "time": "2015-04-17 17:56:56"
         },
         {
             "name": "blackboxcode/pando-note-bundle",
@@ -2331,7 +2287,6 @@
         "blackboxcode/pando-account-bundle": 20,
         "blackboxcode/pando-account-ticket-bundle": 20,
         "blackboxcode/pando-product-sale-bundle": 20,
-        "blackboxcode/pando-commission-bundle": 20,
         "blackboxcode/pando-product-provider-bundle": 20,
         "blackboxcode/pando-tax-bundle": 20,
         "blackboxcode/pando-ecomm-bundle": 20,

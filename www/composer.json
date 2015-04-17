@@ -51,10 +51,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/BlackBoxRepo/PandoCommissionBundle"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/BlackBoxRepo/PandoProductProviderBundle"
         },
         {
@@ -93,7 +89,6 @@
         "blackboxcode/pando-account-bundle": "@dev",
         "blackboxcode/pando-account-ticket-bundle": "@dev",
         "blackboxcode/pando-product-sale-bundle": "@dev",
-        "blackboxcode/pando-commission-bundle": "@dev",
         "blackboxcode/pando-product-provider-bundle": "@dev",
         "blackboxcode/pando-tax-bundle": "@dev",
         "blackboxcode/pando-ecomm-bundle": "@dev",
