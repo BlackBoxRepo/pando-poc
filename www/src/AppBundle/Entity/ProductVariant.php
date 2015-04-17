@@ -9,4 +9,5 @@ use Doctrine\ORM\Mapping as ORM;
 class ProductVariant
 {
     use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\ProductVariantTrait;
+    use \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductVariantTrait;
 }

@@ -11,4 +11,5 @@ class Product
     use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\ProductTrait;
     use \BlackBoxCode\Pando\Bundle\TaxBundle\Model\ProductTrait;
     use \BlackBoxCode\Pando\Bundle\ProductProviderBundle\Model\ProductTrait;
+    use \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductTrait;
 }
