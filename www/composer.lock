@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e430962192104691356e58daa98c28f6",
+    "hash": "94925eb629cc5d2f9220a74de366629d",
     "packages": [
         {
             "name": "blackboxcode/pando-account-bundle",
@@ -93,50 +93,6 @@
                 "issues": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle/issues"
             },
             "time": "2015-04-16 21:58:49"
-        },
-        {
-            "name": "blackboxcode/pando-account-transaction-path-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/BlackBoxRepo/PandoAccountTransactionPathBundle.git",
-                "reference": "49d2a8aff89412882f61ffa15565df8f4d706b77"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTransactionPathBundle/zipball/49d2a8aff89412882f61ffa15565df8f4d706b77",
-                "reference": "49d2a8aff89412882f61ffa15565df8f4d706b77",
-                "shasum": ""
-            },
-            "type": "symfony-bundle",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "develop"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\AccountTransactionPathBundle\\": ""
-                }
-            },
-            "license": [
-                "LGPL-3.0"
-            ],
-            "authors": [
-                {
-                    "name": "Black Box Code",
-                    "email": "contact@blackboxcode.com"
-                }
-            ],
-            "description": "Pando AccountTransactionPathBundle",
-            "keywords": [
-                "pando account transaction path bundle"
-            ],
-            "support": {
-                "source": "https://github.com/BlackBoxRepo/PandoAccountTransactionPathBundle/tree/master",
-                "issues": "https://github.com/BlackBoxRepo/PandoAccountTransactionPathBundle/issues"
-            },
-            "time": "2015-04-06 16:32:36"
         },
         {
             "name": "blackboxcode/pando-base-bundle",
@@ -2377,7 +2333,6 @@
         "blackboxcode/pando-product-sale-bundle": 20,
         "blackboxcode/pando-commission-bundle": 20,
         "blackboxcode/pando-product-provider-bundle": 20,
-        "blackboxcode/pando-account-transaction-path-bundle": 20,
         "blackboxcode/pando-tax-bundle": 20,
         "blackboxcode/pando-ecomm-bundle": 20,
         "blackboxcode/pando-file-bundle": 20
