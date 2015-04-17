@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "774ddf7cf30df29f0da3bad05f5e2d43",
+    "hash": "e430962192104691356e58daa98c28f6",
     "packages": [
         {
             "name": "blackboxcode/pando-account-bundle",
@@ -496,12 +496,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoProductProviderBundle.git",
-                "reference": "5b5e7382a355fba26f7cfd19783d5b129b0b05b2"
+                "reference": "d16504ad68c34cc5478da936010f1574b1b2fb1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductProviderBundle/zipball/5b5e7382a355fba26f7cfd19783d5b129b0b05b2",
-                "reference": "5b5e7382a355fba26f7cfd19783d5b129b0b05b2",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductProviderBundle/zipball/d16504ad68c34cc5478da936010f1574b1b2fb1d",
+                "reference": "d16504ad68c34cc5478da936010f1574b1b2fb1d",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -532,51 +532,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoProductProviderBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoProductProviderBundle/issues"
             },
-            "time": "2015-04-05 03:46:51"
-        },
-        {
-            "name": "blackboxcode/pando-product-provider-transaction-path-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/BlackBoxRepo/PandoProductProviderTransactionPathBundle.git",
-                "reference": "f01f5f87087a5de17175a2d793d274fb88d7e297"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductProviderTransactionPathBundle/zipball/f01f5f87087a5de17175a2d793d274fb88d7e297",
-                "reference": "f01f5f87087a5de17175a2d793d274fb88d7e297",
-                "shasum": ""
-            },
-            "type": "symfony-bundle",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "develop"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ProductProviderTransactionPathBundle\\": ""
-                }
-            },
-            "license": [
-                "LGPL-3.0"
-            ],
-            "authors": [
-                {
-                    "name": "Black Box Code",
-                    "email": "contact@blackboxcode.com"
-                }
-            ],
-            "description": "Pando ProductProviderTransactionPathBundle",
-            "keywords": [
-                "pando product provider transaction path bundle"
-            ],
-            "support": {
-                "source": "https://github.com/BlackBoxRepo/PandoProductProviderTransactionPathBundle/tree/master",
-                "issues": "https://github.com/BlackBoxRepo/PandoProductProviderTransactionPathBundle/issues"
-            },
-            "time": "2015-04-06 16:19:21"
+            "time": "2015-04-17 17:13:46"
         },
         {
             "name": "blackboxcode/pando-product-sale-bundle",
@@ -584,12 +540,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoProductSaleBundle.git",
-                "reference": "2c81b3658f16613085c085fbe2b0d2be68436c87"
+                "reference": "c03e07c8dfd685a2c88053b9aa354b278b816565"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/2c81b3658f16613085c085fbe2b0d2be68436c87",
-                "reference": "2c81b3658f16613085c085fbe2b0d2be68436c87",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/c03e07c8dfd685a2c88053b9aa354b278b816565",
+                "reference": "c03e07c8dfd685a2c88053b9aa354b278b816565",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -620,7 +576,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoProductSaleBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoProductSaleBundle/issues"
             },
-            "time": "2015-04-17 15:15:24"
+            "time": "2015-04-17 16:38:27"
         },
         {
             "name": "blackboxcode/pando-tax-bundle",
@@ -628,12 +584,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoTaxBundle.git",
-                "reference": "002c846ed53c1de8e17ae371f2c8f5313a14cb64"
+                "reference": "b49726b2961764c59a48366faad9a8d0621e2028"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTaxBundle/zipball/002c846ed53c1de8e17ae371f2c8f5313a14cb64",
-                "reference": "002c846ed53c1de8e17ae371f2c8f5313a14cb64",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTaxBundle/zipball/b49726b2961764c59a48366faad9a8d0621e2028",
+                "reference": "b49726b2961764c59a48366faad9a8d0621e2028",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -664,7 +620,7 @@
                 "source": "https://github.com/BlackBoxRepo/PandoTaxBundle/tree/master",
                 "issues": "https://github.com/BlackBoxRepo/PandoTaxBundle/issues"
             },
-            "time": "2015-04-05 03:45:17"
+            "time": "2015-04-17 16:52:02"
         },
         {
             "name": "blackboxcode/pando-ticket-bundle",
@@ -2423,7 +2379,6 @@
         "blackboxcode/pando-product-provider-bundle": 20,
         "blackboxcode/pando-account-transaction-path-bundle": 20,
         "blackboxcode/pando-tax-bundle": 20,
-        "blackboxcode/pando-product-provider-transaction-path-bundle": 20,
         "blackboxcode/pando-ecomm-bundle": 20,
         "blackboxcode/pando-file-bundle": 20
     },
