@@ -5,6 +5,7 @@ use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity
+ * @ORM\Table(indexes={@ORM\Index(columns={"number"})})
  */
 class Phone implements
     \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\PhoneInterface,

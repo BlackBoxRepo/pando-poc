@@ -5,6 +5,10 @@ use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity
+ * @ORM\Table(indexes={
+ *     @ORM\Index(columns={"createdOn"}),
+ *     @ORM\Index(columns={"updatedOn"})
+ * })
  */
 class Ticket implements
     \BlackBoxCode\Pando\Bundle\TicketBundle\Model\TicketInterface,
