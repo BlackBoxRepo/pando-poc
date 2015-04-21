@@ -6,7 +6,11 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class Product
+class Product implements
+    \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\ProductInterface,
+    \BlackBoxCode\Pando\Bundle\TaxBundle\Model\ProductInterface,
+    \BlackBoxCode\Pando\Bundle\ProductProviderBundle\Model\ProductInterface,
+    \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductInterface
 {
     use \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\ProductTrait;
     use \BlackBoxCode\Pando\Bundle\TaxBundle\Model\ProductTrait;

@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class AddressType
+class AddressType implements \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\AddressTypeInterface
 {
     use \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\AddressTypeTrait;
 }

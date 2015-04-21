@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class File
+class File implements \BlackBoxCode\Pando\Bundle\FileBundle\Model\FileInterface
 {
     use \BlackBoxCode\Pando\Bundle\FileBundle\Model\FileTrait;
 }

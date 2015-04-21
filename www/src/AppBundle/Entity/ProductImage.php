@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class ProductImage
+class ProductImage implements \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductImageInterface
 {
     use \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductImageTrait;
 }

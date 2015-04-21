@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class ProductProvider
+class ProductProvider implements \BlackBoxCode\Pando\Bundle\ProductProviderBundle\Model\ProductProviderInterface
 {
     use \BlackBoxCode\Pando\Bundle\ProductProviderBundle\Model\ProductProviderTrait;
 }

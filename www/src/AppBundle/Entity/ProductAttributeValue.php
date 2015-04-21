@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
-class ProductAttributeValue
+class ProductAttributeValue implements \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductAttributeValueInterface
 {
     use \BlackBoxCode\Pando\Bundle\ECommBundle\Model\ProductAttributeValueTrait;
 }
