@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4ef70d06414244d2fcdfabc0b086c93e",
+    "hash": "65539b1945b793577c623bd6f00da11a",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -141,12 +141,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoBaseBundle.git",
-                "reference": "bfd83b7e230884ef936f6f98e7188082895de3f9"
+                "reference": "c9a0355ec2c5ac49332cc6d8f08be2500c0d444d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/bfd83b7e230884ef936f6f98e7188082895de3f9",
-                "reference": "bfd83b7e230884ef936f6f98e7188082895de3f9",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/c9a0355ec2c5ac49332cc6d8f08be2500c0d444d",
+                "reference": "c9a0355ec2c5ac49332cc6d8f08be2500c0d444d",
                 "shasum": ""
             },
             "require": {
@@ -177,7 +177,7 @@
             "keywords": [
                 "pando base bundle"
             ],
-            "time": "2015-04-22 19:48:35"
+            "time": "2015-04-22 20:37:04"
         },
         {
             "name": "blackboxcode/pando-contact-info-bundle",
