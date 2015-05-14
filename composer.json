@@ -26,7 +26,8 @@
         "blackboxcode/pando-ecomm-bundle": "dev-master",
         "blackboxcode/pando-tax-bundle": "dev-master",
         "blackboxcode/pando-account-ticket-bundle": "dev-master",
-        "blackboxcode/pando-employee-bundle": "dev-master"
+        "blackboxcode/pando-employee-bundle": "dev-master",
+        "blackboxcode/pando-content-bundle": "dev-master"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
