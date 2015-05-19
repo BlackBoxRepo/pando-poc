@@ -52,21 +52,22 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoAccountBundle.git",
-                "reference": "250d3d1a43da95d14db64068b80aab1223d3dc45"
+                "reference": "ea0fe26b264cc4178245d6bcf03f3c7e0d3455db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountBundle/zipball/250d3d1a43da95d14db64068b80aab1223d3dc45",
-                "reference": "250d3d1a43da95d14db64068b80aab1223d3dc45",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountBundle/zipball/ea0fe26b264cc4178245d6bcf03f3c7e0d3455db",
+                "reference": "ea0fe26b264cc4178245d6bcf03f3c7e0d3455db",
                 "shasum": ""
             },
             "require": {
+                "blackboxcode/pando-note-bundle": "dev-master",
                 "blackboxcode/pando-person-bundle": "dev-master"
             },
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\AccountBundle\\": ""
+                    "BlackBoxCode\\Pando\\AccountBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -88,7 +89,7 @@
             "keywords": [
                 "pando account bundle"
             ],
-            "time": "2015-05-06 15:37:53"
+            "time": "2015-05-19 17:19:22"
         },
         {
             "name": "blackboxcode/pando-account-ticket-bundle",
@@ -96,12 +97,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoAccountTicketBundle.git",
-                "reference": "27353e83f2be655977c01b720b606eec05710212"
+                "reference": "3c20aff6836ae8d6e4b252a0cf011a55c2bebd32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/27353e83f2be655977c01b720b606eec05710212",
-                "reference": "27353e83f2be655977c01b720b606eec05710212",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoAccountTicketBundle/zipball/3c20aff6836ae8d6e4b252a0cf011a55c2bebd32",
+                "reference": "3c20aff6836ae8d6e4b252a0cf011a55c2bebd32",
                 "shasum": ""
             },
             "require": {
@@ -111,7 +112,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\AccountTicketBundle\\": ""
+                    "BlackBoxCode\\Pando\\AccountTicketBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -133,7 +134,7 @@
             "keywords": [
                 "pando account ticket bundle"
             ],
-            "time": "2015-05-06 15:37:55"
+            "time": "2015-05-19 17:19:23"
         },
         {
             "name": "blackboxcode/pando-base-bundle",
@@ -141,12 +142,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoBaseBundle.git",
-                "reference": "c31ac27d3623cfdf75ffd5e235131042801829ad"
+                "reference": "1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/c31ac27d3623cfdf75ffd5e235131042801829ad",
-                "reference": "c31ac27d3623cfdf75ffd5e235131042801829ad",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b",
+                "reference": "1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b",
                 "shasum": ""
             },
             "require": {
@@ -158,7 +159,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\BaseBundle\\": ""
+                    "BlackBoxCode\\Pando\\BaseBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -180,7 +181,7 @@
             "keywords": [
                 "pando base bundle"
             ],
-            "time": "2015-05-08 19:39:33"
+            "time": "2015-05-19 16:53:46"
         },
         {
             "name": "blackboxcode/pando-contact-info-bundle",
@@ -188,12 +189,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoContactInfoBundle.git",
-                "reference": "0e143fff41235ddc2e8d47034711584fa6c81ab0"
+                "reference": "7f47f249943f7d4a39afc8068bd8b743c048b7ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContactInfoBundle/zipball/0e143fff41235ddc2e8d47034711584fa6c81ab0",
-                "reference": "0e143fff41235ddc2e8d47034711584fa6c81ab0",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContactInfoBundle/zipball/7f47f249943f7d4a39afc8068bd8b743c048b7ac",
+                "reference": "7f47f249943f7d4a39afc8068bd8b743c048b7ac",
                 "shasum": ""
             },
             "require": {
@@ -202,7 +203,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ContactInfoBundle\\": ""
+                    "BlackBoxCode\\Pando\\ContactInfoBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -224,7 +225,7 @@
             "keywords": [
                 "pando contact info bundle"
             ],
-            "time": "2015-05-06 15:37:58"
+            "time": "2015-05-19 16:53:46"
         },
         {
             "name": "blackboxcode/pando-content-bundle",
@@ -232,12 +233,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoContentBundle.git",
-                "reference": "027c9852444fe070563327634bceefb20aaf15ae"
+                "reference": "79e2822ad6a544f7b464adada0c1e39f4790f3b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContentBundle/zipball/027c9852444fe070563327634bceefb20aaf15ae",
-                "reference": "027c9852444fe070563327634bceefb20aaf15ae",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoContentBundle/zipball/79e2822ad6a544f7b464adada0c1e39f4790f3b5",
+                "reference": "79e2822ad6a544f7b464adada0c1e39f4790f3b5",
                 "shasum": ""
             },
             "require": {
@@ -253,7 +254,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ContentBundle\\": ""
+                    "BlackBoxCode\\Pando\\ContentBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -275,7 +276,7 @@
             "keywords": [
                 "pando content bundle"
             ],
-            "time": "2015-05-12 15:28:53"
+            "time": "2015-05-19 17:19:24"
         },
         {
             "name": "blackboxcode/pando-ecomm-bundle",
@@ -283,12 +284,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoECommBundle.git",
-                "reference": "af5b019bfbcbc3bc3e9bcbc4195820c2e76d44d1"
+                "reference": "6b2a2e8ca2cd82137d7d1a6ce5736b1a91a54267"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoECommBundle/zipball/af5b019bfbcbc3bc3e9bcbc4195820c2e76d44d1",
-                "reference": "af5b019bfbcbc3bc3e9bcbc4195820c2e76d44d1",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoECommBundle/zipball/6b2a2e8ca2cd82137d7d1a6ce5736b1a91a54267",
+                "reference": "6b2a2e8ca2cd82137d7d1a6ce5736b1a91a54267",
                 "shasum": ""
             },
             "require": {
@@ -298,7 +299,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ECommBundle\\": ""
+                    "BlackBoxCode\\Pando\\ECommBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -320,7 +321,7 @@
             "keywords": [
                 "pando ecomm bundle"
             ],
-            "time": "2015-05-06 15:38:00"
+            "time": "2015-05-19 17:19:26"
         },
         {
             "name": "blackboxcode/pando-employee-bundle",
@@ -328,12 +329,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoEmployeeBundle.git",
-                "reference": "bee0a6f681527255d1cc8fc08764bc57dd0b35b5"
+                "reference": "e3154aa5d9863398422e4abbe57405d94e1d9981"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoEmployeeBundle/zipball/bee0a6f681527255d1cc8fc08764bc57dd0b35b5",
-                "reference": "bee0a6f681527255d1cc8fc08764bc57dd0b35b5",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoEmployeeBundle/zipball/e3154aa5d9863398422e4abbe57405d94e1d9981",
+                "reference": "e3154aa5d9863398422e4abbe57405d94e1d9981",
                 "shasum": ""
             },
             "require": {
@@ -343,7 +344,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\EmployeeBundle\\": ""
+                    "BlackBoxCode\\Pando\\EmployeeBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -365,7 +366,7 @@
             "keywords": [
                 "pando employee bundle"
             ],
-            "time": "2015-05-06 15:38:02"
+            "time": "2015-05-19 17:19:27"
         },
         {
             "name": "blackboxcode/pando-file-bundle",
@@ -373,12 +374,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoFileBundle.git",
-                "reference": "92a76065862bd6639cdeaf4aa29a1eeb5e439fc6"
+                "reference": "2a2bacae6ef486f5d75ae589d619221f6aa9c888"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoFileBundle/zipball/92a76065862bd6639cdeaf4aa29a1eeb5e439fc6",
-                "reference": "92a76065862bd6639cdeaf4aa29a1eeb5e439fc6",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoFileBundle/zipball/2a2bacae6ef486f5d75ae589d619221f6aa9c888",
+                "reference": "2a2bacae6ef486f5d75ae589d619221f6aa9c888",
                 "shasum": ""
             },
             "require": {
@@ -387,7 +388,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\FileBundle\\": ""
+                    "BlackBoxCode\\Pando\\FileBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -409,7 +410,7 @@
             "keywords": [
                 "pando file bundle"
             ],
-            "time": "2015-05-06 15:38:03"
+            "time": "2015-05-19 17:19:29"
         },
         {
             "name": "blackboxcode/pando-note-bundle",
@@ -417,12 +418,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoNoteBundle.git",
-                "reference": "dce37354fd282b33c2eda241db06a30c7474acf6"
+                "reference": "5e3dc4980056ca3b671ae57ede5265d69a53cc44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoNoteBundle/zipball/dce37354fd282b33c2eda241db06a30c7474acf6",
-                "reference": "dce37354fd282b33c2eda241db06a30c7474acf6",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoNoteBundle/zipball/5e3dc4980056ca3b671ae57ede5265d69a53cc44",
+                "reference": "5e3dc4980056ca3b671ae57ede5265d69a53cc44",
                 "shasum": ""
             },
             "require": {
@@ -431,7 +432,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\NoteBundle\\": ""
+                    "BlackBoxCode\\Pando\\NoteBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -453,7 +454,7 @@
             "keywords": [
                 "pando note bundle"
             ],
-            "time": "2015-05-06 15:38:05"
+            "time": "2015-05-19 17:19:30"
         },
         {
             "name": "blackboxcode/pando-person-bundle",
@@ -461,12 +462,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoPersonBundle.git",
-                "reference": "32b5d682f4293ac1e2506dab26ae4dfb26194c84"
+                "reference": "294c12c8dc92bf362a9e862bf2a32749afdfb218"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoPersonBundle/zipball/32b5d682f4293ac1e2506dab26ae4dfb26194c84",
-                "reference": "32b5d682f4293ac1e2506dab26ae4dfb26194c84",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoPersonBundle/zipball/294c12c8dc92bf362a9e862bf2a32749afdfb218",
+                "reference": "294c12c8dc92bf362a9e862bf2a32749afdfb218",
                 "shasum": ""
             },
             "require": {
@@ -476,7 +477,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\PersonBundle\\": ""
+                    "BlackBoxCode\\Pando\\PersonBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -498,7 +499,7 @@
             "keywords": [
                 "pando person bundle"
             ],
-            "time": "2015-05-06 15:38:08"
+            "time": "2015-05-19 17:19:31"
         },
         {
             "name": "blackboxcode/pando-product-provider-bundle",
@@ -506,12 +507,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoProductProviderBundle.git",
-                "reference": "209c2a76749450ceefe8ab03efc32b46ea47ad9f"
+                "reference": "67d39d1b351feb26d00cdc8f493d9fcbcd4e5093"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductProviderBundle/zipball/209c2a76749450ceefe8ab03efc32b46ea47ad9f",
-                "reference": "209c2a76749450ceefe8ab03efc32b46ea47ad9f",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductProviderBundle/zipball/67d39d1b351feb26d00cdc8f493d9fcbcd4e5093",
+                "reference": "67d39d1b351feb26d00cdc8f493d9fcbcd4e5093",
                 "shasum": ""
             },
             "require": {
@@ -520,7 +521,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ProductProviderBundle\\": ""
+                    "BlackBoxCode\\Pando\\ProductProviderBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -542,7 +543,7 @@
             "keywords": [
                 "pando product provider bundle"
             ],
-            "time": "2015-05-06 15:38:09"
+            "time": "2015-05-19 16:53:46"
         },
         {
             "name": "blackboxcode/pando-product-sale-bundle",
@@ -550,12 +551,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoProductSaleBundle.git",
-                "reference": "edd3281bf6e50f62d47bc7b40dfaae29492fcc24"
+                "reference": "9fb9a12f67b38cac1438560e7ea663e3adc7b12c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/edd3281bf6e50f62d47bc7b40dfaae29492fcc24",
-                "reference": "edd3281bf6e50f62d47bc7b40dfaae29492fcc24",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoProductSaleBundle/zipball/9fb9a12f67b38cac1438560e7ea663e3adc7b12c",
+                "reference": "9fb9a12f67b38cac1438560e7ea663e3adc7b12c",
                 "shasum": ""
             },
             "require": {
@@ -564,7 +565,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\ProductSaleBundle\\": ""
+                    "BlackBoxCode\\Pando\\ProductSaleBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -586,7 +587,7 @@
             "keywords": [
                 "pando product sale bundle"
             ],
-            "time": "2015-05-06 15:38:11"
+            "time": "2015-05-19 17:19:32"
         },
         {
             "name": "blackboxcode/pando-tax-bundle",
@@ -594,12 +595,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoTaxBundle.git",
-                "reference": "a2c6b2263a7daf712dd591c7aa1ad0102bd88f1b"
+                "reference": "526b52874db56a6af9d1bd3db7b7ef385f689ec8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTaxBundle/zipball/a2c6b2263a7daf712dd591c7aa1ad0102bd88f1b",
-                "reference": "a2c6b2263a7daf712dd591c7aa1ad0102bd88f1b",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTaxBundle/zipball/526b52874db56a6af9d1bd3db7b7ef385f689ec8",
+                "reference": "526b52874db56a6af9d1bd3db7b7ef385f689ec8",
                 "shasum": ""
             },
             "require": {
@@ -608,7 +609,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\TaxBundle\\": ""
+                    "BlackBoxCode\\Pando\\TaxBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -630,7 +631,7 @@
             "keywords": [
                 "pando tax bundle"
             ],
-            "time": "2015-05-06 15:38:12"
+            "time": "2015-05-19 17:19:34"
         },
         {
             "name": "blackboxcode/pando-ticket-bundle",
@@ -638,12 +639,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoTicketBundle.git",
-                "reference": "c50cff405fc566033a3df7b0612369f8d73e83cf"
+                "reference": "5f0da5d9308ebc825f9167c2db84649f834373ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTicketBundle/zipball/c50cff405fc566033a3df7b0612369f8d73e83cf",
-                "reference": "c50cff405fc566033a3df7b0612369f8d73e83cf",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoTicketBundle/zipball/5f0da5d9308ebc825f9167c2db84649f834373ca",
+                "reference": "5f0da5d9308ebc825f9167c2db84649f834373ca",
                 "shasum": ""
             },
             "require": {
@@ -653,7 +654,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\TicketBundle\\": ""
+                    "BlackBoxCode\\Pando\\TicketBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -675,7 +676,7 @@
             "keywords": [
                 "pando ticket bundle"
             ],
-            "time": "2015-05-06 15:38:14"
+            "time": "2015-05-19 17:19:35"
         },
         {
             "name": "blackboxcode/pando-user-bundle",
@@ -683,12 +684,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoUserBundle.git",
-                "reference": "b0e9752f92008c3553c1126e99c5f78c374fa120"
+                "reference": "c46c4570b59f4453a7c5a9cacf0cbc45f2deec05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoUserBundle/zipball/b0e9752f92008c3553c1126e99c5f78c374fa120",
-                "reference": "b0e9752f92008c3553c1126e99c5f78c374fa120",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoUserBundle/zipball/c46c4570b59f4453a7c5a9cacf0cbc45f2deec05",
+                "reference": "c46c4570b59f4453a7c5a9cacf0cbc45f2deec05",
                 "shasum": ""
             },
             "require": {
@@ -697,7 +698,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "BlackBoxCode\\Pando\\Bundle\\UserBundle\\": ""
+                    "BlackBoxCode\\Pando\\UserBundle\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -719,7 +720,7 @@
             "keywords": [
                 "pando user bundle"
             ],
-            "time": "2015-05-06 15:38:16"
+            "time": "2015-05-19 17:19:36"
         },
         {
             "name": "cocur/slugify",
@@ -4075,17 +4076,17 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v3.0.22",
+            "version": "v3.0.24",
             "target-dir": "Sensio/Bundle/DistributionBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "0fe4ec86db57c232becb694e01cdabe3c4d9af7c"
+                "reference": "79b820aee1f1daeb2717fa9471ee19275cc1d638"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/0fe4ec86db57c232becb694e01cdabe3c4d9af7c",
-                "reference": "0fe4ec86db57c232becb694e01cdabe3c4d9af7c",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/79b820aee1f1daeb2717fa9471ee19275cc1d638",
+                "reference": "79b820aee1f1daeb2717fa9471ee19275cc1d638",
                 "shasum": ""
             },
             "require": {
@@ -4131,7 +4132,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2015-05-02 16:23:08"
+            "time": "2015-05-16 12:57:08"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -4299,16 +4300,16 @@
         },
         {
             "name": "sonata-project/cache",
-            "version": "1.0.5",
+            "version": "1.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sonata-project/cache.git",
-                "reference": "0d2956070d31a1e6d3504b0671ffeb76818b0676"
+                "reference": "a1522be3a1874c4646e7f9aaea6ca973b8bcbcde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sonata-project/cache/zipball/0d2956070d31a1e6d3504b0671ffeb76818b0676",
-                "reference": "0d2956070d31a1e6d3504b0671ffeb76818b0676",
+                "url": "https://api.github.com/repos/sonata-project/cache/zipball/a1522be3a1874c4646e7f9aaea6ca973b8bcbcde",
+                "reference": "a1522be3a1874c4646e7f9aaea6ca973b8bcbcde",
                 "shasum": ""
             },
             "require-dev": {
@@ -4356,20 +4357,20 @@
                 "mongodb",
                 "redis"
             ],
-            "time": "2015-03-21 08:32:46"
+            "time": "2015-05-18 12:12:33"
         },
         {
             "name": "sonata-project/core-bundle",
-            "version": "2.3.1",
+            "version": "2.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sonata-project/SonataCoreBundle.git",
-                "reference": "b2e2127dbb739598b5ebc0378a9b1d93022680e6"
+                "reference": "360942d98ac7441dc9b06b089ef8636721e37f9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sonata-project/SonataCoreBundle/zipball/b2e2127dbb739598b5ebc0378a9b1d93022680e6",
-                "reference": "b2e2127dbb739598b5ebc0378a9b1d93022680e6",
+                "url": "https://api.github.com/repos/sonata-project/SonataCoreBundle/zipball/360942d98ac7441dc9b06b089ef8636721e37f9c",
+                "reference": "360942d98ac7441dc9b06b089ef8636721e37f9c",
                 "shasum": ""
             },
             "require": {
@@ -4417,11 +4418,11 @@
                 }
             ],
             "description": "Symfony SonataCoreBundle",
-            "homepage": "http://sonata-project.org/bundles/core",
+            "homepage": "https://sonata-project.org/bundles/core",
             "keywords": [
                 "sonata"
             ],
-            "time": "2015-03-09 09:18:34"
+            "time": "2015-05-18 14:31:37"
         },
         {
             "name": "stof/doctrine-extensions-bundle",
