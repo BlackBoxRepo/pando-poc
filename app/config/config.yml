@@ -71,3 +71,8 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+black_box_code_pando_base:
+    entity:
+        base_dir: "%pando.entity.base_dir%"
+        namespace: "%pando.entity.namespace%"

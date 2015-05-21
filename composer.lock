@@ -142,12 +142,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BlackBoxRepo/PandoBaseBundle.git",
-                "reference": "1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b"
+                "reference": "672703d2c06b778ec586d95a0de6719dc0c3573e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b",
-                "reference": "1d5aaf2e1f84b4d2da0af93fd371e5dac61f421b",
+                "url": "https://api.github.com/repos/BlackBoxRepo/PandoBaseBundle/zipball/672703d2c06b778ec586d95a0de6719dc0c3573e",
+                "reference": "672703d2c06b778ec586d95a0de6719dc0c3573e",
                 "shasum": ""
             },
             "require": {
@@ -181,7 +181,7 @@
             "keywords": [
                 "pando base bundle"
             ],
-            "time": "2015-05-19 16:53:46"
+            "time": "2015-05-19 19:03:30"
         },
         {
             "name": "blackboxcode/pando-contact-info-bundle",
