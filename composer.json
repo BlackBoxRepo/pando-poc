@@ -28,7 +28,8 @@
         "blackboxcode/pando-tax-bundle": "dev-master",
         "blackboxcode/pando-account-ticket-bundle": "dev-master",
         "blackboxcode/pando-employee-bundle": "dev-master",
-        "blackboxcode/pando-content-bundle": "dev-master"
+        "blackboxcode/pando-content-bundle": "dev-master",
+        "doctrine/doctrine-fixtures-bundle": "^2.2@dev"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
