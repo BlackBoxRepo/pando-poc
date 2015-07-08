@@ -25,5 +25,5 @@ parameters:
     phpcr_user: %database_user%
     phpcr_password: %database_password%
 
-    pando.entity.base_dir: src/AppBundle
+    pando.entity.base_dir: src
     pando.entity.namespace: AppBundle\Entity
